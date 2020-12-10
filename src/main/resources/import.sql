@@ -1,0 +1,12 @@
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Min Seok', 'Kim', '1990-03-26');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Baek Hyun', 'Byun', '1992-05-06');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Chan Yeol', 'Park', '1992-11-27');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Jong In', 'Kim', '1994-01-14');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Se Hun', 'Oh', '1994-04-12');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Jun Myeon', 'Kim', '1991-05-22');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Yì Xìng', 'Zhang', '1991-10-07');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Kyung Soo', 'Do', '1993-01-12');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Jong Dae', 'Kim', '1992-09-21');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Han', 'Lu', '1990-04-20');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Yi Fan', 'Wu', '1990-11-06');
+INSERT INTO cliente (nombre, apellido, fecha_nacimiento) VALUES ('Zi Tao', 'Huang', '1993-05-02');
